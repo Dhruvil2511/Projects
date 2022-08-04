@@ -1,3 +1,5 @@
+/* I have used Caeser Cipher algorthim to encrypt and decrypt the string, This was my First semester project 
+    With this project i got myself into good knowledge about string and ASCII Characters */
 
 #include <stdio.h>
 
